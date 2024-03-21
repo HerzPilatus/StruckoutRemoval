@@ -1,0 +1,12 @@
+--2023-01-03 17:31:58--  https://github.com/ultralytics/yolov5/releases/download/v6.1/yolov5n.pt
+正在解析主机 github.com (github.com)... 20.205.243.166
+正在连接 github.com (github.com)|20.205.243.166|:443... 已连接。
+已发出 HTTP 请求，正在等待回应... 302 Found
+位置：https://objects.githubusercontent.com/github-production-release-asset-2e65be/264818686/e3cd2b74-b7e5-491d-901a-58234d5f948f?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20230103%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230103T093303Z&X-Amz-Expires=300&X-Amz-Signature=05b7192b8b19bce76749a0bc1bbb033aa74e40e10533d2e016487842d4256e68&X-Amz-SignedHeaders=host&actor_id=0&key_id=0&repo_id=264818686&response-content-disposition=attachment%3B%20filename%3Dyolov5n.pt&response-content-type=application%2Foctet-stream [跟随至新的 URL]
+--2023-01-03 17:33:03--  https://objects.githubusercontent.com/github-production-release-asset-2e65be/264818686/e3cd2b74-b7e5-491d-901a-58234d5f948f?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20230103%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230103T093303Z&X-Amz-Expires=300&X-Amz-Signature=05b7192b8b19bce76749a0bc1bbb033aa74e40e10533d2e016487842d4256e68&X-Amz-SignedHeaders=host&actor_id=0&key_id=0&repo_id=264818686&response-content-disposition=attachment%3B%20filename%3Dyolov5n.pt&response-content-type=application%2Foctet-stream
+正在解析主机 objects.githubusercontent.com (objects.githubusercontent.com)... 185.199.109.133, 185.199.108.133, 185.199.111.133, ...
+正在连接 objects.githubusercontent.com (objects.githubusercontent.com)|185.199.109.133|:443... 失败：连接超时。
+正在连接 objects.githubusercontent.com (objects.githubusercontent.com)|185.199.108.133|:443... 已连接。
+已发出 HTTP 请求，正在等待回应... 401 Unauthorized
+
+用户名/密码认证失败。
